@@ -1,0 +1,9 @@
+---
+layout: none
+---
+User-agent: *
+Allow: /
+Disallow: /cdn-cgi/
+
+Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: {{ site.url }}/feed.xml
