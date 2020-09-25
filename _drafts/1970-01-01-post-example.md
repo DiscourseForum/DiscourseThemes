@@ -1,35 +1,14 @@
 ---
-layout: post
-title: Chirpy
-date: 2020-08-05 00:17:00 +0800
-homepage: https://github.com/cotes2020/jekyll-theme-chirpy/
-download: https://github.com/cotes2020/jekyll-theme-chirpy/archive/master.zip
-demo: https://cotes2020.github.io/chirpy-demo/
-author: Cotes Chung
-thumbnail: chirpy.png
+title: My amazing Discourse theme
+author: My name
+homepage: https://github.com/myrepo/owesome-addon
+download: https://github.com/myrepo/owesome-addon
+demo: https://theme-creator.discourse.org/theme/MyName/owesome-addon
+meta_topic_id: 99157649
+category: Themes
+thumbnail: /images/99157649/thumbnail.png
 license: MIT License
-license_link: https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/LICENSE
+license_link: https://github.com/myrepo/owesome-addon/blob/master/LICENSE
 ---
 
-A minimal, sidebar, responsive web design Jekyll theme, focusing on text presentation, aim to help you easily record and share your knowledge. 
-
-[Live Demo »](https://cotes2020.github.io/chirpy-demo/)
-
-[![Devices Mockup](https://raw.githubusercontent.com/cotes2020/jekyll-theme-chirpy/master/assets/img/sample/devices-mockup.png)](https://cotes2020.github.io/chirpy-demo/)
-
-### Features
-
-* Pinned Posts
-* Configurable theme mode
-* Double-level Categories
-* Last modified date for posts
-* Table of Contents
-* Automatically recommend related posts
-* Syntax highlighting
-* Mathematical expressions
-* Search
-* Atom Feeds
-* Disqus Comments
-* Google Analytics
-* GA Pageviews reporting (Advanced)
-* SEO and Performance Optimization
+Your markdown content goes here. Authors usually post a topic on https://meta.discourse.org then copy & paste their markdown here.
